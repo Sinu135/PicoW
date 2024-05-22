@@ -1,0 +1,10 @@
+C:\Users\kevin\OneDrive\Imágenes\practica1\practica1\bin\Debug\practica1.exe.config
+C:\Users\kevin\OneDrive\Imágenes\practica1\practica1\bin\Debug\practica1.exe
+C:\Users\kevin\OneDrive\Imágenes\practica1\practica1\bin\Debug\practica1.pdb
+C:\Users\kevin\OneDrive\Imágenes\practica1\practica1\obj\Debug\practica1.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Imágenes\practica1\practica1\obj\Debug\practica1.Form1.resources
+C:\Users\kevin\OneDrive\Imágenes\practica1\practica1\obj\Debug\practica1.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Imágenes\practica1\practica1\obj\Debug\practica1.csproj.GenerateResource.cache
+C:\Users\kevin\OneDrive\Imágenes\practica1\practica1\obj\Debug\practica1.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Imágenes\practica1\practica1\obj\Debug\practica1.exe
+C:\Users\kevin\OneDrive\Imágenes\practica1\practica1\obj\Debug\practica1.pdb
